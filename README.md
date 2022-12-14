@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirdosh Lamichhane</h1>
-<p align="center"><i>Balkot, Bhaktapur</i></p>
+<p align="center"><i>Balkot, Bhaktapur, Nepal 44800</i></p>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshl&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshl" /> </p>
