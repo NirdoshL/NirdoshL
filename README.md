@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/n71353040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n71353040" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://np.linkedin.com/in/nirdosh-l-b022381a4?trk=public_profile_browsemap_profile-result-card_result-card_full-click" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/nirdosh-l-b022381a4?trk=public_profile_browsemap_profile-result-card_result-card_full-click" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirdosh-l-b022381a4?trk=public_profile_browsemap_profile-result-card_result-card_full-click" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/nirdosh-l-b022381a4?trk=public_profile_browsemap_profile-result-card_result-card_full-click" height="30" width="40" /></a>
 <a href="https://fb.com/nirdosh lamixane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirdosh lamixane" height="30" width="40" /></a>
 <a href="https://instagram.com/_nirdosh.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nirdosh.l" height="30" width="40" /></a>
 </p>
