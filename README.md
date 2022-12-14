@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nirdosh Lamichhane</h1>
+<h1 align="center"><img height="80vh" src="https://cdn.pixabay.com/animation/2022/08/06/11/56/11-56-56-209_512.gif" alt="Hi"> I'm Nirdosh Lamichhane<img height="80vh" src="https://cdn.pixabay.com/photo/2016/03/31/18/26/coding-1294361_960_720.png" alt="Programmer"></h1>
 <p align="center"><i>Balkot, Bhaktapur, Nepal 44800</i></p>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center"><img src="https://cdn.pixabay.com/photo/2016/05/30/14/46/man-1424877_960_720.png" height="70vh">“ In order to be irreplaceable, one must always be different”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshl&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirdoshl" alt="nirdoshl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirdoshl&theme=matrix" alt="nirdoshl" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/n71353040" target="blank"><img src="https://img.shields.io/twitter/follow/n71353040?logo=twitter&style=for-the-badge" alt="n71353040" /></a> </p>
 
