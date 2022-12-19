@@ -3,11 +3,6 @@
 <h3 align="center"><img src="https://cdn.pixabay.com/photo/2016/05/30/14/46/man-1424877_960_720.png" height="55vh">“ In order to be irreplaceable, one must always be different”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirdoshl&label=Profile%20views&color=0e75b6&style=flat" alt="nirdoshl" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirdoshl&theme=matrix" alt="nirdoshl" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/n71353040" target="blank"><img src="https://img.shields.io/twitter/follow/n71353040?logo=twitter&style=for-the-badge" alt="n71353040" /></a> </p> -->
-
 <!-- - 🔭 I’m currently working on **E-commerce Website** -->
 
 - 🌱 I’m currently learning **React js, Node js.**
