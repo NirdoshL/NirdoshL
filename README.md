@@ -1,4 +1,4 @@
-<h1 align="center"><img height="80vh" src="https://cdn.pixabay.com/animation/2022/08/06/11/56/11-56-56-209_512.gif" alt="Hi"> I'm Nirdosh Lamichhane<img height="70vh" src="https://cdn.pixabay.com/photo/2016/03/31/18/26/coding-1294361_960_720.png" alt="Programmer"></h1>
+<h1 align="center">I'm Nirdosh Lamichhane</h1>
 <p align="center"><i>Balkot, Bhaktapur, Nepal 44800</i></p>
 <h3 align="center"><img src="https://cdn.pixabay.com/photo/2016/05/30/14/46/man-1424877_960_720.png" height="55vh">“ In order to be irreplaceable, one must always be different”</h3>
 
