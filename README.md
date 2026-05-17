@@ -1,53 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0a,40:0d1f2d,80:0a3d62,100:1a1a2e&height=220&section=header&text=Nirdosh%20Lamichhane&fontSize=52&fontColor=00d4ff&fontAlignY=42&fontAlign=38&desc=Crafting%20digital%20experiences%20from%20Kathmandu%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=62&descSize=16&descAlign=38&descColor=a0aec0&animation=blinking" />
+<div align="center">
+<img src="header.svg" width="100%" alt="Nirdosh Lamichhane" />
+</div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=560&height=40&lines=Full+Stack+Engineer+%E2%80%94+Web+%26+Mobile;Building+scalable+APIs+%26+sleek+UIs;TypeScript+%7C+React+%7C+Node+%7C+Python;Open+to+collaborate+on+cool+ideas+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=0096FF&center=true&vCenter=true&width=480&lines=Full+Stack+Engineer+%E2%80%94+Web+%26+Mobile;Next.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+TypeScript;Turning+ideas+into+production-ready+products;Always+building.+Always+learning.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<table border="0" align="center">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### `> whoami`
-
-```typescript
-const nirdosh = {
-  role        : "Full Stack Developer",
-  based       : "Bhaktapur, Nepal 🏔️",
-  currentFocus: ["React", "Next.js", "NestJS"],
-  exploring   : ["FastAPI", "Fastify", "System Design"],
-  openTo      : "Interesting collaborations",
-  funFact     : "I debug with console.log & I'm proud 😅",
-};
-```
-
-<br/>
-
-### `> current_status`
-
-🔨 &nbsp;**Building** — Full-stack web projects  
-📖 &nbsp;**Reading** — System design & architecture  
-🌐 &nbsp;**Learning** — Cloud infra & DevOps basics  
-💡 &nbsp;**Goal** — Ship products people love  
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+![](https://img.shields.io/badge/%F0%9F%94%A5_Status-Actively_Building-0096FF?style=flat-square&labelColor=03045e)
+&nbsp;
+![](https://img.shields.io/badge/%F0%9F%A4%9D_Open_to-Collabs_%26_Freelance-0096FF?style=flat-square&labelColor=03045e)
+&nbsp;
+![](https://img.shields.io/badge/%F0%9F%93%8D_Based_in-Nepal-0096FF?style=flat-square&labelColor=03045e)
+&nbsp;
+![](https://img.shields.io/badge/%F0%9F%92%AC_Ask_me_about-JS_%2F_TS_%2F_Python-0096FF?style=flat-square&labelColor=03045e)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirdoshl&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="155"/>
+[![followers](https://img.shields.io/github/followers/nirdoshl?label=Followers&style=flat-square&color=0096FF&labelColor=020818)](https://github.com/nirdoshl)
+&nbsp;
+[![stars](https://img.shields.io/github/stars/nirdoshl?label=Stars&style=flat-square&color=0096FF&labelColor=020818)](https://github.com/nirdoshl)
+&nbsp;
+[![views](https://komarev.com/ghpvc/?username=nirdoshl&label=Profile+Views&style=flat-square&color=0096FF)](https://github.com/nirdoshl)
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
 
 ---
 
@@ -55,38 +40,32 @@ const nirdosh = {
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark)](https://skillicons.dev)
 
-**Frontend & Styling**
+**Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=dark)](https://skillicons.dev)
+
+![React Query](https://img.shields.io/badge/React%20Query-0d1117?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
+![Base UI](https://img.shields.io/badge/Base%20UI-0d1117?style=for-the-badge&logo=mui&logoColor=0096FF)
 ![ESLint](https://img.shields.io/badge/ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=4B32C3)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Backend & APIs**
 
-![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
+
 ![Fastify](https://img.shields.io/badge/Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 **Data & DevOps**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,git,docker,linux&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -96,15 +75,23 @@ const nirdosh = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirdoshl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=nirdoshl&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nirdoshl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03045e&title_color=0096FF&icon_color=00b4d8&text_color=caf0f8&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirdoshl&layout=compact&theme=tokyonight&hide_border=true&bg_color=03045e&title_color=0096FF&text_color=caf0f8" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirdoshl&theme=tokyonight&hide_border=true&background=03045e&ring=0096FF&fire=00b4d8&currStreakLabel=0096FF&sideLabels=caf0f8&dates=caf0f8&stroke=0096FF"/>
 
 </div>
 
+<br/>
+
+### 📅 Contribution History — 2025 & Beyond
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirdoshl&bg_color=0d1117&color=00d4ff&line=0a3d62&point=00d4ff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirdoshl&bg_color=020818&color=caf0f8&line=0096FF&point=00b4d8&area_color=03045e&area=true&hide_border=true&from=2025-01-01)
 
 </div>
 
@@ -114,7 +101,7 @@ const nirdosh = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=nirdoshl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)
+![](https://github-profile-trophy.vercel.app/?username=nirdoshl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 </div>
 
@@ -124,24 +111,18 @@ const nirdosh = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n71353040)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirdosh-l-b022381a4)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/nirdosh.lamixane.1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nirdosh.l)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirdoshlamixane001@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0096FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n71353040)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-03045e?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://linkedin.com/in/nirdosh-l-b022381a4)
+[![Facebook](https://img.shields.io/badge/Facebook-0096FF?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/nirdosh.lamixane.1)
+[![Instagram](https://img.shields.io/badge/Instagram-03045e?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://instagram.com/_nirdosh.l)
+[![Gmail](https://img.shields.io/badge/Gmail-0096FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirdoshlamixane001@gmail.com)
+
+<br/>
+
+*"Build it. Ship it. Improve it."*
 
 </div>
-
----
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nirdoshl&label=Profile+Views&color=00d4ff&style=for-the-badge" />
-
-<br/><br/>
-
-*"The best code is the one that doesn't need a comment to explain itself."*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:03045e,100:0096FF&height=100&section=footer&reversal=false"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,40:0a3d62,80:0d1f2d,100:0a0a0a&height=120&section=footer&reversal=true" />
