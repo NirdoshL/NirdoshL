@@ -93,11 +93,17 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirdoshl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03045e&title_color=0096FF&icon_color=00b4d8&text_color=caf0f8&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirdoshl&layout=compact&theme=tokyonight&hide_border=true&bg_color=03045e&title_color=0096FF&text_color=caf0f8" height="170"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirdoshl&show_icons=true&theme=tokyonight"
+    style="height: 170px;"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nirdoshl&layout=compact&theme=tokyonight"
+    style="height: 170px;"
+  />
 
 </div>
 
