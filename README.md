@@ -91,7 +91,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
@@ -120,16 +120,6 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirdoshl&bg_color=020818&color=caf0f8&line=0096FF&point=00b4d8&area_color=03045e&area=true&hide_border=true&from=2025-01-01&to=2026-12-31&hide_title=false&custom_title=Nirdosh's%202025%20%E2%80%94%202026%20Contribution%20Graph)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=nirdoshl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 </div>
 
