@@ -91,7 +91,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirdoshl&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirdoshl&theme=tokyonight" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirdoshl&theme=tokyonight" /> -->
 
 </div>
 
