@@ -29,10 +29,10 @@
 </div>
 
 <br/>
-
+<!--
 ---
 
-<div align="center">
+ <div align="center">
 
 I work across the entire stack: **pixel-perfect UIs** with Next.js, React & Tailwind on the frontend, and **fast, scalable APIs** with NestJS, Fastify & FastAPI on the backend. TypeScript is my language of choice — I believe in writing code that is clean, typed, and maintainable.
 
@@ -51,7 +51,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 ---
 
 ## Tech Arsenal
-
+ -->
 <div align="center">
 
 **Languages**
