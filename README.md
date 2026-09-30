@@ -32,13 +32,7 @@
 
 ---
 
-## 🙋‍♂️ Who Am I?
-
-<br/>
-
 <div align="center">
-
-I'm a **Full Stack Developer** from the mountains of Nepal 🏔️ who loves building things on the web — from the first line of code to production deployment.
 
 I work across the entire stack: **pixel-perfect UIs** with Next.js, React & Tailwind on the frontend, and **fast, scalable APIs** with NestJS, Fastify & FastAPI on the backend. TypeScript is my language of choice — I believe in writing code that is clean, typed, and maintainable.
 
@@ -46,9 +40,9 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 <br/>
 
-| 📍 Bhaktapur, Nepal | 🔭 Full Stack Projects | 🌱 System Design & DevOps |
+| 📌 Bhaktapur, Nepal | 🔭 Full Stack Projects | 🌱 System Design & DevOps |
 |:---:|:---:|:---:|
-| **🤝 Open to Collaborate** | **⚡ Clean Code Believer** | **📬 nirdoshlamixane001@gmail.com** |
+| **🤝 Open to Collaborate** | **⚡ Clean Code Believer** | **💌 nirdoshlamixane001@gmail.com** |
 
 </div>
 
@@ -56,7 +50,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -91,19 +85,13 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ---
 
-## 🏆 GitHub Stats
+## GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirdoshl&show_icons=true&theme=tokyonight"
-    style="height: 170px;"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirdoshl&theme=tokyonight" />
 
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nirdoshl&layout=compact&theme=tokyonight"
-    style="height: 170px;"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirdoshl&theme=tokyonight" />
 
 </div>
 
@@ -115,7 +103,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ---
 
-### 📅 Contribution History — 2025 Onwards
+### Contribution History — 2025 Onwards
 
 <div align="center">
 
@@ -125,7 +113,7 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <div align="center">
 
