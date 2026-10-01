@@ -106,8 +106,8 @@ Outside code, I'm deep into **system design**, **clean architecture**, and explo
 ### Contribution History — 2025 Onwards
 
 <div align="center">
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=nirdoshl&bg_color=020818&color=caf0f8&line=0096FF&point=00b4d8&area_color=03045e&area=true&hide_border=true&from=2025-01-01&to=2026-12-31&hide_title=false&custom_title=Nirdosh's%202025%20%E2%80%94%202026%20Contribution%20Graph" />
-</div>   
+  <img src="https://raw.githubusercontent.com/nirdoshl/graph/output/graph.svg" alt="Nirdosh's Contribution Graph" />
+</div>    
 
 ---
 
